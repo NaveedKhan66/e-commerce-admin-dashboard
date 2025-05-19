@@ -1,0 +1,5 @@
+# Database connection string
+DATABASE_URL=postgresql://postgres:123@localhost:5432/ecommerce_dashboard
+
+# API Settings
+API_DEBUG=true 
